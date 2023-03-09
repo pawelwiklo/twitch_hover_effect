@@ -14,7 +14,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   Color iconColor = Colors.white54;
   bool _visible = false;
   String sentence =
-      'This grid was kinda hard to do although ebe aaa aa aaa aaa aaa aaa';
+      'This grid text will appear out of nowhere no matter how long it is';
   List words = [];
   late List animControllers;
 
